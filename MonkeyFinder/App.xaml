@@ -22,7 +22,7 @@
 				<Setter Property="BarBackgroundColor" Value="{StaticResource Primary}" />
 				<Setter Property="BarTextColor" Value="White" />
 			</Style>
-
+			
             <Style TargetType="Label" x:Key="BaseLabel">
                 <Setter Property="FontFamily" Value="OpenSansRegular" />
                 <Setter Property="TextColor" Value="#1F1F1F" />
@@ -47,7 +47,7 @@
             <Style TargetType="RefreshView" ApplyToDerivedTypes="True">
                 <Setter Property="RefreshColor" Value="{StaticResource Primary}" />
             </Style>
-            
+
             <Style x:Key="ButtonOutline" TargetType="Button">
                 <Setter Property="Background" Value="{StaticResource LightBackground}"/>
                 <Setter Property="TextColor" Value="{StaticResource Primary}"/>

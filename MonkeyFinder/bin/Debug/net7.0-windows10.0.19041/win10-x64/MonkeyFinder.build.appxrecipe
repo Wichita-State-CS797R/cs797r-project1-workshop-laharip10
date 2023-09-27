@@ -877,6 +877,9 @@
     <AppxPackagedFile Include="C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
       <PackagePath>nodata.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\rme1.scale-100.PNG">
+      <PackagePath>rme1.scale-100.PNG</PackagePath>
+    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\LAHARI\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.2.msix">
