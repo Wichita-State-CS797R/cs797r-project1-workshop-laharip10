@@ -607,6 +607,9 @@
     <AppxPackagedFile Include="C:\Users\LAHARI\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LAHARI\.nuget\packages\communitytoolkit.mvvm\8.2.1\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LAHARI\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -876,6 +879,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
       <PackagePath>nodata.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\r233.scale-100.PNG">
+      <PackagePath>r233.scale-100.PNG</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\rme1.scale-100.PNG">
       <PackagePath>rme1.scale-100.PNG</PackagePath>

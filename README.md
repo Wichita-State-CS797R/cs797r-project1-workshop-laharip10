@@ -3,8 +3,10 @@ Step 1:
 Created the MAUI Frist project and will follow the workshop steps to finish the task.
 Step 2: 
 Created the Monkey user interface window.
- ![attached the output of the step 2](C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\Resources\Images\rme1.PNG)
+ ![attached the output of the step 2](Resources\Images\rme1.PNG)
 Step 3:
 Performed the display of monkey finder with different money located in different places.
-![step3](C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\Resources\Images\r233.PNG)
+![step3](Resources\Images\r233.PNG)
 
+step 4:
+3.png

@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MonkeyFinder",
-    "\\MonkeyFinder\\Platforms",
-    "\\MonkeyFinder\\Resources",
-    "\\MonkeyFinder\\Resources\\Images"
+    "\\MonkeyFinder"
   ],
-  "SelectedNode": "\\MonkeyFinder\\Resources\\Images",
   "PreviewInSolutionExplorer": true
 }

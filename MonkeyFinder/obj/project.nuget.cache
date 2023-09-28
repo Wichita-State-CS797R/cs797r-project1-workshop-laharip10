@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h1SUqKEd5gXwUnOBO6NQK9b+xee7XwPTSHOWb+tHn5/Dg/+4oQnIRfjjJjph0h7IX5NvDIsPYWoi0WjFmzrpSw==",
+  "dgSpecHash": "t+V3gE01i8EF/1vykCEBVFedppWoJrxSVk51vp1A8JBILN/OFiFrLD/0jfuqv4PvMbdmX5CtbSecpAMoHS96Cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LAHARI\\source\\repos\\cs797r-project1-workshop-laharip10\\MonkeyFinder\\MonkeyFinder.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LAHARI\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\LAHARI\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\LAHARI\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\LAHARI\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
