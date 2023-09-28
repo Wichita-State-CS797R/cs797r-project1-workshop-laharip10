@@ -1,1 +1,1 @@
-C:\Users\LAHARI\source\repos\cs797r-project1-workshop-laharip10\MonkeyFinder\MonkeyFinder.csproj;x64
+C:\Users\LAHARI\Downloads\dotnet-maui-workshop\dotnet-maui-workshop-main\Part 6 - AppThemes\MonkeyFinder\MonkeyFinder.csproj;x64
