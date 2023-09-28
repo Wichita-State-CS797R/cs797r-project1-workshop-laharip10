@@ -10,3 +10,4 @@ Performed the display of monkey finder with different money located in different
 
 step 4:
 3.png
+step 5:
