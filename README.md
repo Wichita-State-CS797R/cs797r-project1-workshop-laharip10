@@ -11,9 +11,12 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 - performed changes in the Mainpage.Xaml
  ![window](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/r233.PNG)
   ![andriod emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part1-Run.png)
-   ![andriod emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part2-Run.png)
+   ![andriod emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part2-1Run.png)
 
 # Step 4:  Different features
+-![emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part2-2-Run.png)
+-![emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part2-3-Run.png)
+
  -
  individual page was created to the monkey user interface with more detailed infromation.
  ![step4](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/3.PNG)
