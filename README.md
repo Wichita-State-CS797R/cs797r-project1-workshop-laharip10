@@ -16,10 +16,10 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 # Step 4:  Different features
  -
  individual page was created to the monkey user interface with more detailed infromation.
- ![step4](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/3.png)
+ ![step4](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/3.PNG)
 # step 5: introduced maps to find the location near to the user.
 -introduced map with the loactions to find the 'MonkeysViewModel.cs' with new property
- - ![step5](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/4.png)
+ - ![step5](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/4.PNG)
 # Step 6: CollectionView
 - -![emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part4-1-Run.png)
 -![emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part4-3-Run.png)
