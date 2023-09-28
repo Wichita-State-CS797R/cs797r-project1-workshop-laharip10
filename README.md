@@ -37,6 +37,8 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 # step 8: Upadted Layouts
 
 - Used linear layout and grid layout to perform the monekeys infromation in difeerent layout format.
+- -![emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part5-4-Run.png)
+
 
 # step 9: Related modificatoions:
 - provided all the realted screenshots to the final output of the project.
