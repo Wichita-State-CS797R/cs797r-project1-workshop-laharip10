@@ -5,10 +5,14 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 - build the solution and performed excetuion for window as well as Android emulator.
 - output provided as screenshot.
  ![attached the output of the step 2](../rme1.PNG)
+ ![andriod emulator](https://github.com/Wichita-State-CS797R/cs797r-project1-workshop-laharip10/blob/main/MonkeyFinder/Part0-Run.png)
 # Step 3: Performed the display of monkey finder with different money located in different places.
 - implemented the .Net MAUI listview to display multiple moneys
 - performed changes in the Mainpage.Xaml
  ![step3](../r233.PNG)
+  ![andriod emulator](../Part1-Run.png)
+   ![andriod emulator](../Part2-Run.png)
+
 
 # Step 4: 
  -
@@ -23,5 +27,7 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 - Used linear layout and grid layout to perform the monekeys infromation in difeerent layout format.
 
 # step 9:
+- 
 # step 10:
+- Sucessfully created my .net MAUI project. 
 
