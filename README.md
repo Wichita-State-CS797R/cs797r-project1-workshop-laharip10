@@ -10,8 +10,10 @@ Created the MAUI Frist project using .Net and will follow the workshop steps to 
 - performed changes in the Mainpage.Xaml
 [![step3](..\r233.PNG)
 
-# Step 4:
-3.png
-step 5: introduced maps to find the location near to the user.
+# Step 4: 
+-[![step4](3.png)
+# step 5: introduced maps to find the location near to the user.
 
 4.png
+# Step 6:
+Used linear layout and grid layout to perform the monekeys infromation in difeerent layout format.
